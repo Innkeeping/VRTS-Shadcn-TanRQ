@@ -48,3 +48,17 @@ export default tseslint.config({
   },
 })
 ```
+[TailwindCSS in Vite](https://tailwindcss.com/docs/guides/vite)
+
+---
+
+[Tanstack Router](https://tanstack.com/router/latest)
+[Tanstack Query](https://tanstack.com/query/latest)
+
+---
+
+[Shadcn in Vite](https://ui.shadcn.com/docs/installation/vite)
+
+---
+
+This repo has done all the steps described above and is in Darkmode.
